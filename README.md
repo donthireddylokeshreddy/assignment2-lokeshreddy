@@ -17,3 +17,14 @@ nearest airport to that musem.
 - Overland Park, KS.
 - Leawood, KS.
 [AboutMefile](AboutMe.md)
+
+_ _ _
+# Table
+recommended cities to vist.
+| city | location | time |
+| --- |--- |--- |
+| omaha | Lewis & Clark National Historic Trail | 3 hours |
+| maryvilly | northwest missouri state university | 8 hours |
+| kensas | museums | 2 hours |
+| californiya | tricking | 4 hours |
+
