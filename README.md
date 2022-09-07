@@ -8,4 +8,12 @@ nearest airport to that musem.
 1. kensas aiport to 12th Between Baltimore And Main Eastbound bus number 229
 2. 12th Between Baltimore And Main Eastbound bus number 229Metro Center On Main At 12th St Sb in between we should walk.
 3. 12th Between Baltimore And Main Eastbound bus number 229 train Union Station On Main At Pershing Sb.
+- Kansas City, MO.
+- Mission, KS.
+- Gladstone, MO.
+- Merriam, KS.
+- Shawnee, KS.
+- Prairie Village, KS.
+- Overland Park, KS.
+- Leawood, KS.
 
