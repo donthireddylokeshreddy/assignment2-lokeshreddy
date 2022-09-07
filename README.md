@@ -31,5 +31,20 @@ recommended cities to vist.
  ---
  >dont work like a rock work like a clock. *--lokeshreddy*
 
- >What matters in life is not what happens to you but what you remember and how you remember it.*--jaya* 
+ >What matters in life is not what happens to you but what you remember and how you remember it.*--jaya*
+ ---
+ #  code
+ no line break between button and form
+ [StackoverflowQuestion](https://stackoverflow.com/questions/9117209/no-line-break-between-button-and-form)
+```
+<button>
+  Some
+  <br>
+  Text
+</button>
+```
+
+[CodeSnippet](https://css-tricks.com/snippets/html/button-with-line-breaks/)
+ 
+
 
