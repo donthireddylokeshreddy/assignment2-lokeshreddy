@@ -27,4 +27,9 @@ recommended cities to vist.
 | maryvilly | northwest missouri state university | 8 hours |
 | kensas | museums | 2 hours |
 | californiya | tricking | 4 hours |
+ # lokesh quotes
+ ---
+ >dont work like a rock work like a clock. *--lokeshreddy*
+
+ >What matters in life is not what happens to you but what you remember and how you remember it.*--jaya* 
 
